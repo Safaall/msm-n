@@ -24,11 +24,3 @@ footer {
   padding: 10px;
   background: #eee;
 }
-.product-highlight {
-  text-align: center;
-  margin: 20px;
-}
-.product-highlight img {
-  max-width: 90%;
-  height: auto;
-}
